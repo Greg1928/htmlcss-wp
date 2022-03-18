@@ -110,9 +110,16 @@ p{
 
 }
 footer {
-    background-color: #8801fe;
     height: 35px;
+    text-align: center;
+    padding-top: 20px;
+    margin-bottom: 20px;
 }
 #imglogo{
     height: 70px;
+}
+
+#heart{
+    color: red;
+    font-size: 30px;
 }
