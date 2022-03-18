@@ -14,10 +14,13 @@
     display: table;
     clear:both;
 }
+/* intestazione  */
 header {
-    /* background-color: #e579e6; */
     height: 120px;
     margin-bottom: 20px;
+}
+#imglogo{
+    height: 70px;
 }
 .linea{
     width: 1px;
@@ -36,6 +39,7 @@ a{
     text-decoration: none;
     color: #8A8A8A;
 }
+/* inizio corpo pagina  */
 .sezione1 {
     background-image: url("../img/banner.jpg");
     background-size: 1280px 550px;
@@ -61,6 +65,7 @@ a{
     width: 650px;
     font-size: medium;
 }
+/* seconda sezione  */
 .sezione2 {
     height: 620px;
     margin-bottom: 20px;
@@ -109,16 +114,13 @@ p{
     border-radius: 8px;
 
 }
+/* pie di pagina  */
 footer {
     height: 35px;
     text-align: center;
     padding-top: 20px;
     margin-bottom: 20px;
 }
-#imglogo{
-    height: 70px;
-}
-
 #heart{
     color: red;
     font-size: 30px;
